@@ -1,4 +1,4 @@
-# 🚀 KovaInjector v1.0 — Android Security Detection Bypass Tool
+# 🚀 KovaInjector — Android Security Detection Bypass Tool
 
 <img src="https://raw.githubusercontent.com/frostyxsec/KovaInjector/refs/heads/main/kova.png">
 

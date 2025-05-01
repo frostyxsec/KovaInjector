@@ -83,3 +83,8 @@ This tool is intended **for educational and research purposes only**.
 Do not use it on applications you do not own or have explicit permission to test.
 
 ---
+
+## Download
+<a href="https://github.com/frostyxsec/KOVA/releases/tag/release">Download here</a>
+
+---

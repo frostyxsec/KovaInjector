@@ -42,18 +42,6 @@ brew install apktool
 
 ---
 
-## 🚀 Usage
-
-```bash
-./kova.sh -apk <input.apk> -o <output.apk>
-```
-
-### 📘 Example:
-
-```bash
-./kova.sh -apk target.apk -o patched_target.apk
-```
-
 ### ℹ️ Important Note:
 
 > ⚠️ This tool won't work on APKs with **modification protection** or **signature verification**. You must remove such protections manually beforehand.
